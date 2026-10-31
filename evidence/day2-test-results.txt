@@ -1,0 +1,10 @@
+test_encoded_powershell_is_flagged (test_detector.TestThreatLensDetector.test_encoded_powershell_is_flagged) ... ok
+test_normal_notepad_is_not_flagged (test_detector.TestThreatLensDetector.test_normal_notepad_is_not_flagged) ... ok
+test_normal_powershell_is_not_flagged (test_detector.TestThreatLensDetector.test_normal_powershell_is_not_flagged) ... ok
+test_pwsh_encoded_command_is_flagged (test_detector.TestThreatLensDetector.test_pwsh_encoded_command_is_flagged) ... ok
+test_short_encoded_switch_is_flagged (test_detector.TestThreatLensDetector.test_short_encoded_switch_is_flagged) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
