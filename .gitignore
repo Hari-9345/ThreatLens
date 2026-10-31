@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+#Private Windows event evidence
+evidence/day1-notepad-process.json
+evidence/day1-process-evidence.txt
+logs/

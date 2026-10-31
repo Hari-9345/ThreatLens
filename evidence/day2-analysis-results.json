@@ -1,0 +1,13 @@
+[
+    {
+        "status": "NORMAL",
+        "severity": "INFO",
+        "matched_rules": [],
+        "reasons": [],
+        "process_name": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\\Notepad\\Notepad.exe",
+        "process_id": "0x5cac",
+        "command_line": "\"C:\\windows\\system32\\notepad.exe\" ",
+        "parent_process": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "timestamp": "2026-10-30T09:47:25.8993025Z"
+    }
+]

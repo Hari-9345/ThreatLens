@@ -1,0 +1,28 @@
+[
+    {
+        "status": "FLAGGED",
+        "severity": "MEDIUM",
+        "matched_rules": [
+            "TL001"
+        ],
+        "reasons": [
+            "PowerShell command contains -EncodedCommand or -enc."
+        ],
+        "process_name": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "process_id": "0x2222",
+        "command_line": "powershell.exe -EncodedCommand VGVzdA==",
+        "parent_process": "C:\\Windows\\explorer.exe",
+        "timestamp": "2026-10-31T07:30:00Z"
+    },
+    {
+        "status": "NORMAL",
+        "severity": "INFO",
+        "matched_rules": [],
+        "reasons": [],
+        "process_name": "C:\\Windows\\System32\\notepad.exe",
+        "process_id": "0x3333",
+        "command_line": "notepad.exe",
+        "parent_process": "C:\\Windows\\explorer.exe",
+        "timestamp": "2026-10-31T07:31:00Z"
+    }
+]

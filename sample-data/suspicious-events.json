@@ -1,0 +1,26 @@
+﻿[
+    {
+        "timestamp": "2026-10-31T07:30:00Z",
+        "event_id": 4688,
+        "source": "Synthetic Test Data",
+        "process_name": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "process_id": "0x2222",
+        "command_line": "powershell.exe -EncodedCommand VGVzdA==",
+        "parent_process": "C:\\Windows\\explorer.exe",
+        "parent_process_id": "0x1111",
+        "user": "TEST_USER",
+        "domain": "TEST_DOMAIN"
+    },
+    {
+        "timestamp": "2026-10-31T07:31:00Z",
+        "event_id": 4688,
+        "source": "Synthetic Test Data",
+        "process_name": "C:\\Windows\\System32\\notepad.exe",
+        "process_id": "0x3333",
+        "command_line": "notepad.exe",
+        "parent_process": "C:\\Windows\\explorer.exe",
+        "parent_process_id": "0x1111",
+        "user": "TEST_USER",
+        "domain": "TEST_DOMAIN"
+    }
+]
